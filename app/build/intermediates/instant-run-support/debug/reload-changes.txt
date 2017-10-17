@@ -1,0 +1,5 @@
+CHANGED,G:\demo\bluetooth\BLEDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\bluetooth\bledemo\BleWrapper$3$override.class
+CHANGED,G:\demo\bluetooth\BLEDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\bluetooth\bledemo\BleWrapper$override.class
+CHANGED,G:\demo\bluetooth\BLEDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\bluetooth\bledemo\BleWrapper$1$override.class
+CHANGED,G:\demo\bluetooth\BLEDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\bluetooth\bledemo\BleWrapper$2$override.class
+CHANGED,G:\demo\bluetooth\BLEDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

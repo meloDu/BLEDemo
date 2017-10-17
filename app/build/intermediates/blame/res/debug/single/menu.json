@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\demo\\bluetooth\\BLEDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\peripheral.xml",
+        "source": "G:\\demo\\bluetooth\\BLEDemo\\app\\src\\main\\res\\menu\\peripheral.xml"
+    },
+    {
+        "merged": "G:\\demo\\bluetooth\\BLEDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\scanning.xml",
+        "source": "G:\\demo\\bluetooth\\BLEDemo\\app\\src\\main\\res\\menu\\scanning.xml"
+    }
+]

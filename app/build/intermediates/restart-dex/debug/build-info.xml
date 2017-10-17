@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="25"
+    density="xxhdpi"
+    format="7"
+    timestamp="9698788480927"
+    token="-7353134379087289433" >
+
+    <task
+        name="javac"
+        duration="382" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="33" />
+    <task
+        name="verifier"
+        duration="17" />
+
+    <artifact
+        location="G:\demo\bluetooth\BLEDemo\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+
+    <build timestamp="4166333054450" >
+        <artifact
+            location="G:\demo\bluetooth\BLEDemo\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="9698788480927" >
+        <artifact
+            location="G:\demo\bluetooth\BLEDemo\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
